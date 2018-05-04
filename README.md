@@ -12,8 +12,24 @@ tous les trains avaient été annulés, les voyageurs passaient, dépités,d'un 
 	</code>
 </pre>
 
+<<<<<<< HEAD
 Miau c'est le chat du chat
 
 Si ton tonton tonds ton tonton ton tonton sera tondu
 
 Essaye de le lire a voix haute.
+=======
+
+
+
+
+
+
+
+
+Ceci est un test pour pas devoir repull
+
+Si je repull a nouveau, je vais pleurer.
+
+[GitHub](http://github.com)
+>>>>>>> d49dcf4d8bf858120d87a28bdc96aeeccc5ebe34
