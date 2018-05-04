@@ -11,3 +11,9 @@ tous les trains avaient été annulés, les voyageurs passaient, dépités,d'un 
 		L'oiseau tua alors le chien qui étais là !
 	</code>
 </pre>
+
+Miau c'est le chat du chat
+
+Si ton tonton tonds ton tonton ton tonton sera tondu
+
+Essaye de le lire a voix haute.
