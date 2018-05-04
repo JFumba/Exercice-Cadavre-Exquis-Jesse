@@ -59,3 +59,6 @@ Pierre qui tombe sur l'oeuf, malheur à l'oeuf.
 Oeuf qui tombe sur la pierre, malheur à l'oeuf.
 
 > Proverbe Chinois
+  
+  Qu'est-ce qui est vert, qui tourne très très vite et qui devient rouge ?
+Une grenouille dans un mixer
