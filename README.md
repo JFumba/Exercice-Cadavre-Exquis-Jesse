@@ -25,3 +25,18 @@ Ceci est un test pour pas devoir repull
 Si je repull a nouveau, je vais pleurer.
 
 [GitHub](http://github.com)
+
+
+## Histoire à méditer !
+
+HISTOIRES À MÉDITER.
+
+Un jour un homme riche donna un panier rempli d’ordure à un homme pauvre 
+. L’homme pauvre lui sourit et partit avec le panier . Il le vida et le 
+nettoya et puis le remplit de fleurs magnifiques . Il retourna chez 
+l’homme riche et lui rendit le panier, l’homme riche s’étonna et lui dit 
+: Pourquoi tu m’as donné ce panier rempli de belles fleurs alors que je 
+t’ai donné des ordures ???? 
+
+*Et l’homme pauvre lui dit : Chaque personne donne ce qu’il a dans le 
+cœur .*
