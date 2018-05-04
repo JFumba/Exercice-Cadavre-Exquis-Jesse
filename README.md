@@ -12,6 +12,13 @@ tous les trains avaient été annulés, les voyageurs passaient, dépités,d'un 
 	</code>
 </pre>
 
+<<<<<<< HEAD
+Miau c'est le chat du chat
+
+Si ton tonton tonds ton tonton ton tonton sera tondu
+
+Essaye de le lire a voix haute.
+=======
 
 
 
@@ -25,6 +32,7 @@ Ceci est un test pour pas devoir repull
 Si je repull a nouveau, je vais pleurer.
 
 [GitHub](http://github.com)
+<<<<<<< HEAD
 
 
 ## Histoire à méditer !
@@ -40,3 +48,6 @@ t’ai donné des ordures ????
 
 *Et l’homme pauvre lui dit : Chaque personne donne ce qu’il a dans le 
 cœur .*
+=======
+>>>>>>> d49dcf4d8bf858120d87a28bdc96aeeccc5ebe34
+>>>>>>> e4a42a62fa12c47e9c05ade9754ac8e7b4957aec
